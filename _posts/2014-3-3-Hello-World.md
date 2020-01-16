@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: To the First of Many Non-Zero Days!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+##Why the heck am I doing this?
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+To support my goal of becoming a developer by [learning in public](https://www.swyx.io/writing/learn-in-public/), no matter how cringey it may personally feel.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+To create a document for myself so that I can monitor progress, also as suggested by Shawn Wang in [this](https://www.freecodecamp.org/news/shawn-wang-podcast-interview/) interview.
+
