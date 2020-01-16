@@ -7,7 +7,7 @@ title: To the First of Many Non-Zero Days!
 
 To support my goal of becoming a developer by [learning in public](https://www.swyx.io/writing/learn-in-public/), no matter how embarrassing it may make me feel. 
 
-> You can learn so much on the internet for the low, low price of your ego. - Shawn Wang
+> "You can learn so much on the internet for the low, low price of your ego." - [Shawn Wang](https://twitter.com/swyx)
 
 To create a document for myself so that I can monitor progress, also as suggested by Shawn Wang in [this](https://www.freecodecamp.org/news/shawn-wang-podcast-interview/) interview.
 
