@@ -3,7 +3,7 @@ layout: post
 title: To the First of Many Non-Zero Days!
 ---
 
-##Why the heck am I doing this?
+## Why the heck am I doing this? ##
 
 To support my goal of becoming a developer by [learning in public](https://www.swyx.io/writing/learn-in-public/), no matter how cringey it may personally feel.
 
