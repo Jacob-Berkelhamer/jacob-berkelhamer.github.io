@@ -2,6 +2,7 @@
 layout: post
 title: Strides and Anxieties
 ---
+### Week of Jan 12 2020
 This week came with many forward strides. Last week, I set a high-level life goal to **Live a long and fulfilling life** (more details to come in future posts), and continued my journey to learn programming. I made great headway into the freeCodeCamp JS curriculum, connected with a few skilled software engineers over social media (a Quincy Larson Twitter like counts, right?), continued reading YDKJSY, began my first project by purchasing the domain rights to thankyounot.es, committed to Learning in Public, and started this blog. By all accounts, this was a pretty dang successful week of learning to program. So why do I feel so anxious right now?
 
 Maybe it's because I'm a worrier by nature...and nurture. As such, what I'd like to do in this post is list my anxieties, and **_CRUSH THEM_**, or, at the very least, try to quiet them for now. So, here's some anxieties that my brain is currently throwing at me:
