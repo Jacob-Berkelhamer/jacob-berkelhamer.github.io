@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About me
+Originally from Chicago, I've lived in New Orleans and Memphis, and have boomeranged back home. I love problem solving and take deep satisfaction in automating the mundane. I created this blog as part of my commitment to [learn in public](https://www.swyx.io/writing/learn-in-public/).
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jacob.berkelhamer@gmail.com](mailto:jacob.berkelhamer@gmail.com)
