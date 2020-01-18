@@ -23,4 +23,4 @@ Anxiety 3 is blank because I am already feeling relief and a renewed sense of mo
 Have an awesome week. Life is good, y'all.    
     
    
-On a final, interesting note, I've noticed that the more anxious I become, the more my brain "speaks" to me in the _You_ form, as in **You** need to get to work or **you'll** fail. Brain, can we please get to a point where we're working together, and suggestions come in the "We" form? Like: **We** should get started on this so that **we** can make it as fulfilling and successful as possible?
+On a final, interesting note, I've noticed that the more anxious I become, the more my brain "speaks" to me in the _You_ form, as in **You** need to get to work or **you'll** fail. Brain, can we please get to a point where we're working together, and suggestions come in the _We_ form? Like: **We** should get started on this so that **we** can make it as fulfilling and successful as possible?
