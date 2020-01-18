@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jan 12 2020 Weekly Post: Strides and Anxieties
+title: Strides and Anxieties
 ---
 This week came with many forward strides. Last week, I set a high-level life goal to **Live a long and fulfilling life** (more details to come in future posts), and continued my journey to learn programming. I made great headway into the freeCodeCamp JS curriculum, connected with a few skilled software engineers over social media (a Quincy Larson Twitter like counts, right?), continued reading YDKJSY, began my first project by purchasing the domain rights to thankyounot.es, committed to Learning in Public, and started this blog. By all accounts, this was a pretty dang successful week of learning to program. So why do I feel so anxious right now?
 
