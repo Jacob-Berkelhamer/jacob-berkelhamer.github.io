@@ -20,7 +20,7 @@ Put basic information into the website, click a button, and _POOF_, a beautiful 
 * Randomly use slight variances in thank you note skeleton to generate different sounding thank you notes - I'll have to research best thank you notes on the web to get general skeletons.
 * Add a 'new thank you note' button to return to survey page
 
-###Post-Mortem - what did I actually do?
+### Post-Mortem - what did I actually do?
 (details to come)
 
 
