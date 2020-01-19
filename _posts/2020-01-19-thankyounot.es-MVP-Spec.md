@@ -1,3 +1,8 @@
+---
+layout: post
+title: thankyounot.es MVP Spec
+---
+
 ### Why this project?
 To make it easier to write my wedding thank you notes.
 
