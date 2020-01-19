@@ -1,6 +1,6 @@
 ---
 layout: post
-title: thankyounot.es MVP Spec
+title: "thankyounot.es MVP Spec"
 ---
 
 ### Why this project?
