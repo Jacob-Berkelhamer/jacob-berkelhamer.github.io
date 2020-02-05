@@ -2,7 +2,7 @@
 layout: post
 title: On to the Next Month
 ---
-## January 2020 Post-Mortem##
+## January 2020 Post-Mortem
 In this post I want to detail what I think were the 3 biggest contributors towards my programming success in January:
 
 ### Committed to Learning in Public
@@ -17,4 +17,5 @@ Finally, I'm happy that I worked towards building thankyounot.es by mocking it u
 ### OK, one more thing: joining Albert A's AMAs and Slack group
 Albert has been extremely generous with his time and has been helping us learn more about what it's like to be a professional software engineer, all while answering a bunch of random questions. Also, he's creating a community in Slack which has been exciting to interact with. I think that learning with this community will be valuable and fun!    
 
+## Keep it movin'
 Now we're a few days into February and it's time to work on a full month of programming lessons, continue making thankyounot.es, and hopefully interact with more awesome people who have made the transition from a non-traditional background into tech.
